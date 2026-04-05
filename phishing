@@ -1,0 +1,127 @@
+What is Phishing?
+
+Phishing is a type of cyber attack in which an attacker pretends to be a trusted person, company, or organization in order to trick victims into revealing sensitive information such as passwords, banking details, OTPs, or personal data. The word “phishing” comes from the idea of “fishing,” where attackers throw bait and wait for victims to take it.
+
+A phishing attack usually arrives through email, SMS, fake websites, social media messages, or phone calls. The attacker often creates urgency, fear, or curiosity so that the victim reacts quickly without verifying authenticity.
+
+For example, a user may receive an email claiming to be from a bank saying: “Your account will be suspended within 24 hours unless you verify your identity immediately.” The email includes a link to a fake website that looks almost identical to the original banking website. Once the victim enters login details, the attacker captures the credentials.
+
+Why Phishing is So Effective
+
+Phishing succeeds because humans naturally trust familiar brands and official-looking communication. Attackers use logos, similar domain names, professional formatting, and emotional triggers to make their messages believable.
+
+Unlike technical attacks that require advanced hacking skills, phishing can succeed even when strong technical security systems exist because the weakest point in security is often the user. A firewall cannot stop a person from voluntarily giving away a password.
+
+Cybercriminals also exploit large databases of leaked emails and personal details to personalize attacks. When a phishing email contains a victim’s name, company, or role, it appears more convincing.
+
+Common Types of Phishing Attacks
+1. Email Phishing
+
+This is the most common type. Attackers send fake emails pretending to be trusted organizations like banks, payment services, universities, or delivery companies.
+
+2. Spear Phishing
+
+This is a targeted phishing attack aimed at a specific person or organization. The attacker researches the victim before sending the message, making it highly personalized.
+
+3. Smishing
+
+Smishing means phishing through SMS messages. Victims receive text messages with malicious links or urgent warnings.
+
+4. Vishing
+
+Vishing uses phone calls. Attackers pretend to be customer support agents, bank officials, or government representatives.
+
+5. Clone Phishing
+
+A legitimate email is copied and resent with a malicious attachment or altered link.
+
+Anatomy of a Phishing Email
+
+A phishing email usually contains several warning signs:
+
+Suspicious sender address
+Grammar mistakes or unusual language
+Urgent requests
+Unexpected attachments
+Links that do not match official domains
+Threatening tone or reward offers
+
+For example, an email may appear to come from support@paypa1.com
+ instead of the genuine domain, where the letter “l” is replaced by the number “1”.
+
+How Attackers Build Fake Websites
+
+Phishing websites are designed to imitate real websites almost perfectly. Attackers copy layouts, logos, login forms, and colors from official websites. Sometimes they use domains that look nearly identical to original domains.
+
+Example:
+
+Real: securebank.com
+Fake: secure-bank-login.com
+
+When users fail to check the URL carefully, they may unknowingly submit credentials directly to attackers.
+
+Real-World Impact of Phishing
+
+Phishing can lead to serious consequences:
+
+Financial theft 💸
+Identity theft
+Unauthorized access to social media accounts
+Corporate data breaches
+Ransomware infections
+
+In organizations, one successful phishing email can allow attackers to enter internal systems and spread malware across the network.
+
+Large companies and even government institutions have suffered major losses because one employee clicked a malicious link.
+
+How to Detect Phishing Attacks
+
+Users can protect themselves by developing simple verification habits:
+
+Always check sender email carefully
+Hover over links before clicking
+Verify urgent requests independently
+Never share passwords through email
+Avoid opening unknown attachments
+Look for HTTPS, but do not rely only on it
+
+If a bank sends a suspicious email, instead of clicking the link, users should open the official website manually.
+
+Technical Defenses Against Phishing
+
+Organizations use multiple technical controls to reduce phishing risks:
+
+Email Filtering
+
+Security systems detect suspicious attachments, malicious links, and fake sender domains.
+
+Multi-Factor Authentication (MFA)
+
+Even if passwords are stolen, attackers cannot easily access accounts without a second authentication factor.
+
+Domain Authentication
+
+Protocols such as SPF, DKIM, and DMARC help verify that emails are sent from legitimate domains.
+
+Security Awareness Training
+
+Employees are trained regularly using simulated phishing exercises.
+
+Role of Self-Learning in Cyber Security
+
+Phishing constantly evolves, so self-learning is essential. A student learning cyber security should regularly study:
+
+Latest phishing techniques
+New social engineering tricks
+Real attack case studies
+Security blogs and threat reports
+
+Self-learning improves awareness because cyber threats change faster than traditional textbooks.
+
+A cyber security learner can practice safely by examining sample phishing emails and identifying suspicious elements.
+
+Conclusion
+
+Phishing remains one of the most dangerous cyber threats because it targets human behavior rather than software vulnerabilities. Even highly secure systems can fail if users are deceived into revealing sensitive data. Understanding phishing is therefore a fundamental cyber security skill for everyone.
+
+Through self-learning, individuals can develop critical thinking before clicking links, opening attachments, or sharing information online. In cyber security, awareness is often the strongest first line of defense. The more people understand phishing, the harder it becomes for attackers to succeed. 🔒✨
